@@ -1,6 +1,8 @@
 name: Deploy Pythology Aegis
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '17 * * * *'
