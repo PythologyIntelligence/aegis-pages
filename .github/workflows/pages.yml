@@ -1,5 +1,5 @@
 name: Deploy Pythology Aegis
-# Source release: 138164f
+# Source release: 0777b5f
 
 on:
   push:
